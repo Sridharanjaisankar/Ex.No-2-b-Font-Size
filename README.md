@@ -157,6 +157,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
+![EX2](https://github.com/user-attachments/assets/82d22edf-029e-450d-9a78-4bedc0b7ec3c)
+
+![EX_2](https://github.com/user-attachments/assets/b69fabd3-e9ff-4c80-9774-b1ca582bec40)
+
 
 
 
